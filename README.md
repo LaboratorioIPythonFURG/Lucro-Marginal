@@ -1,4 +1,6 @@
 # Lucro Marginal
+_(Adaptado de: Material de aula da disciplina Introdução à Economia, elaborado pelo professor José Paulo Zeetano Chahad - Universidade de São Paulo
+Faculdade de Economia)_
 
 
 ## Problema proposto:
